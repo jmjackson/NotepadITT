@@ -1,0 +1,9 @@
+C:\Users\Candi\Documents\NotepadITT\bin\Debug\NotepadITT.exe.config
+C:\Users\Candi\Documents\NotepadITT\bin\Debug\NotepadITT.exe
+C:\Users\Candi\Documents\NotepadITT\bin\Debug\NotepadITT.pdb
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.csprojAssemblyReference.cache
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.Principal.resources
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.Properties.Resources.resources
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.csproj.GenerateResource.cache
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.exe
+C:\Users\Candi\Documents\NotepadITT\obj\Debug\NotepadITT.pdb
